@@ -1,4 +1,4 @@
-vless://fe84171d-a2a0-46fe-97db-5bfdfd76b823@0.0.0.0:1?encryption=none&security=none&type=tcp#درود، اگه از این سرویس استفاده می‌کنید از کانال ما حمایت کنید t.me/AMYR_NEWS
+vless://fe84171d-a2a0-46fe-97db-5bfdfd76b823@0.0.0.0:1?encryption=none&security=none&type=tcp#درود از چنل ما حمایت کنید https://t.me/AMYR_NEWS
 vless://fe84171d-a2a0-46fe-97db-5bfdfd76b823@warriors-permit-remove-massage.trycloudflare.com:443?host=warriors-permit-remove-massage.trycloudflare.com&path=%2Fgh%3Fed%3D2560&security=tls&type=ws&fp=chrome&alpn=http%2F1.1#AMYR_no_limit | 📢 @AMYR_NEWS
 vless://fe84171d-a2a0-46fe-97db-5bfdfd76b823@104.18.20.69:443?host=warriors-permit-remove-massage.trycloudflare.com&path=%2Fgh%3Fed%3D2560&security=tls&type=ws&fp=chrome&alpn=http%2F1.1#AMYR_no_limit | 📢 @AMYR_NEWS
 vless://fe84171d-a2a0-46fe-97db-5bfdfd76b823@172.64.155.209:443?host=warriors-permit-remove-massage.trycloudflare.com&path=%2Fgh%3Fed%3D2560&security=tls&type=ws&fp=chrome&alpn=http%2F1.1#AMYR_no_limit | 📢 @AMYR_NEWS
